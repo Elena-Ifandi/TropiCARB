@@ -1,10 +1,10 @@
-<a
-  href="https://lu.ma/event/evt-JyErvOK4tFX0fgl"
-  class="luma-checkout--button"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-JyErvOK4tFX0fgl"
->
-  Register for Event
-</a>
-
-<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+<iframe
+  src="https://lu.ma/embed-checkout/evt-JyErvOK4tFX0fgl"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
